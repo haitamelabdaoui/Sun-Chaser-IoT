@@ -1,6 +1,6 @@
 # Sun-Chaser-IoT
 
-## The Story: Why We Built This
+## The Story: Why We Built This?
 In two years of preparatory class, I spent a lot of time and energy into my TIPE project: optimizing the orientation of solar panels to maximize energy capture.
 
 When I entered engineering school, I faced a choice. I could put all that hard work into a drawer and start something new, or I could take what I already built and make it better. 
