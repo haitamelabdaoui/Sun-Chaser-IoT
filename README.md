@@ -30,13 +30,22 @@ If you look closely at the dashboard, you will notice an energy gain of **16.0%*
 
 Because we fast-forwarded a whole year of data into just a few minutes, the final result is slightly different (**16.0%** instead of **19.85%**). But if we connect this system to real solar panels in real life, it is totally ready to track and show the data live.
 
-## 📂 Repository Structure
+##  Repository Structure
+
+```text
 .
 ├── docker-compose.yml       # Launches Mosquitto, InfluxDB, and Grafana containers
 ├── mosquitto.conf           # MQTT broker settings
-├── publisher.py             # Streams the solar power and tracking data
+├── publisher.py             # Streams solar power and tracking data
 ├── subscriber.py            # Ingests MQTT data and writes it directly to InfluxDB
 ├── grafana_dashboard.json   # Exported dashboard template for instant visualization
 └── README.md                # Project documentation
+```
+
+## Author
+
+**El Abdaoui Haitam**  
+Engineering Student @ IMT Mines Albi | Renewable Energy & GreenTech  
+[LinkedIn](https://www.linkedin.com/in/haitam-el-abdaoui-129296254) 
 
 
