@@ -18,11 +18,7 @@ Instead of static Excel sheets, this system handles the complete data flow for a
 
 ## 📊 Dashboard & Technical Note on Performance
 
-Here is what the live supervision interface looks like in action:
-
-![Sun-Chaser-IoT Dashboard](Dashbord.png)
-![Dashboard Metrics Details](Solar Output.png)
-
+Please take a look to Here **Dashbord.png** and Solar **Output.png** to see what the live supervision interface looks like:
 
 
 ### ⚠️ A Note on the Energy Gain (16.0% vs 19.85%)
