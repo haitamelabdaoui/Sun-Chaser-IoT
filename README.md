@@ -5,7 +5,7 @@ In two years of preparatory class, I spent a lot of time and energy into my TIPE
 
 When I entered engineering school, I faced a choice. I could put all that hard work into a drawer and start something new, or I could take what I already built and make it better. 
 
-I believed that my previous work mattered. Using the new software and green tech skills learned during my first year of engineering studies, I decided to upgrade mu physical prototype into a real, working IoT system.
+I believed that my previous work mattered. Using the new software and green tech skills learned during my first year of engineering studies, I decided to upgrade my physical prototype into a real, working IoT system.
 
 ## What This Project Does
 This repository takes the raw energy data from my TIPE project (comparing a fixed solar panel against a mobile tracking panel) and turns it into a live monitoring pipeline. 
