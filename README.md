@@ -16,7 +16,7 @@ Instead of static Excel sheets, this system handles the complete data flow for a
 - **Time-Series Storage:** Ingests and saves every data point into **InfluxDB** (`subscriber.py`).
 - **Client-Ready Visualization:** Display the data on a **Grafana** dashboard to clearly demonstrate performance gains (such as our TIPE's proven energy increase) for future smart grid integration.
 
-## 📊 Dashboard & Technical Note on Performance
+## Dashboard & Technical Note on Performance
 
 Please take a look to Here **Dashbord.png** and Solar **Output.png** to see what the live supervision interface looks like:
 
