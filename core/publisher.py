@@ -25,7 +25,7 @@ print("Début de la diffusion des données...")
 for _, ligne in df.iterrows():
         if str(ligne["date_time"]) == "nan":
            continue
-        # On sécurise la conversion en remplaçant la virgule par un point
+        # On permet la conversion en remplaçant la virgule par un point
         eclairement = float(str(ligne["E_W_m2"]).replace(',', '.'))
         p_fixe = float(str(ligne["P_t_W_fixe"]).replace(',', '.'))
         p_suiveur = float(str(ligne["P_t_W_suiveur"]).replace(',', '.'))
